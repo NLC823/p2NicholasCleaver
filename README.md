@@ -6,8 +6,8 @@
 When looking for car Dashboards online, you can find a lot of futuristic looking light up screens.
 
 <div style="text-align: center">
-<img src="/Images/future-dash-1.jpg" width=500 >
-<img src="/Images/future-dash-2.webp" width=500>
+<img src="/Images/future-dash-1.jpg" width=400 >
+<img src="/Images/future-dash-2.webp" width=600>
 </div>
 
 <div style="text-align: center">
