@@ -1,2 +1,2 @@
 # Human Computer Interaction Project 2: Car Dashboard
-### Nicholas Cleaver
+#### Nicholas Cleaver | Spring 2021 | Texas Tech University
