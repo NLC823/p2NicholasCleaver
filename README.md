@@ -30,8 +30,26 @@ The top left image shown here is still a widely used design today. This is one o
 
 #### Pros and Cons
 First, lets start off with the futureistic electronic dashboards shown at the beginning.
-<ul style="margin-top: 0">
-  <li><strong>Pors:</strong> the pros of this design</li>
+<ul>
+  <li><strong>Pros:</strong> the pros of this design</li>
+  <li><strong>Cons:</strong> the cons of this design</li>
+</ul>
+
+Next, lets look at the slightly older design that is stillhighly popular from the top right image.
+<ul>
+  <li><strong>Pros:</strong> the pros of this design</li>
+  <li><strong>Cons:</strong> the cons of this design</li>
+</ul>
+
+Next, lets look at the more modern spin off of the extremely popular design of old depicted in the top right and bottom left images.
+<ul>
+  <li><strong>Pros:</strong> the pros of this design</li>
+  <li><strong>Cons:</strong> the cons of this design</li>
+</ul>
+
+Finally, lets look at the design for the Honda e compact EV.
+<ul>
+  <li><strong>Pros:</strong> the pros of this design</li>
   <li><strong>Cons:</strong> the cons of this design</li>
 </ul>
 
