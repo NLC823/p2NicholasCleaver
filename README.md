@@ -10,7 +10,7 @@ When looking for car Dashboards online, you can find a lot of futuristic looking
 <img src="/Images/future-dash-2.webp" width=590>
 </div>
 
-While these dashboards are nice and clean looking, they are not a realistic representation of what appears in most cars today. These kinds of dash boards are great for educational purposes. You can use them to represent a normal dashboard to, for example, explain what different dashboard lights do such as in the following example:
+While these dashboards are nice and clean looking, they are not a realistic representation of what appears in most cars today. These kinds of dash boards are great for educational purposes. You can use them to represent a normal dashboard in order to, for example, explain what different dashboard lights do such as in the following example:
 
 <div style="text-align: center">
 <img src="/Images/lots-of-information.webp" width=1000>
