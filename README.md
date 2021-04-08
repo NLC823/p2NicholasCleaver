@@ -31,8 +31,8 @@ The top left image shown here is still a widely used design today. This is one o
 #### Pros and Cons
 <ul>
 First, lets start off with the futureistic electronic dashboards shown at the beginning.
-  <li><strong>Pors:<strong> the pros of this design</li>
-  <li><strong>Cons:<strong> the cons of this design</li>
+  <li><strong>Pors:</strong> the pros of this design</li>
+  <li><strong>Cons:</strong> the cons of this design</li>
 </ul>
 
 ## Part 2
