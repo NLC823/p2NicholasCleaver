@@ -93,7 +93,7 @@ Some of the less common information shown on the dashboard is:
 There are 5 controls that the user can use to interact with the dashboard split amongst 2 buttons and a switch.
 
 <div style="text-align: center">
-<img src="/Images/dash-controls.jpg" width=1000>
+<img src="/Images/dash-controls.jpg" height=500>
 </div>
 
 - Switch screen button: this button is used to switch the screen forwards 1 screen. There are several different screens on the LCD screen and the only purpose of this button is to go forwards through them.
