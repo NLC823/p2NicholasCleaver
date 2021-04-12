@@ -63,6 +63,8 @@ In summary, the more complicated the design for the car dashboard, the more comp
 ## Part 2
 
 
+#### Features
+
 For this section, I will use my own car dashboard as an example. I have one with a central LCD screen and two circular gauges as with the top right and bottom left from the section above. Uses of the dashboard include displaying information; there is a lot of information that is either important to know while driving or just handy to know in general and this is displayed on the dashboard.
 
 Some of the more common information to look at for me is as follows:
@@ -90,7 +92,9 @@ Some of the less common information shown on the dashboard is:
 - Fuel Economy (Average miles per gallon)
 - Settings
 
-There are 5 controls that the user can use to interact with the dashboard split amongst 2 buttons and a switch. All of these controls are located along the left side of the steering wheel and the user can effectively activate all of them with their thumb while still holding the steering wheel with the rest of their hand. See the image below along with the following bullet points for an explanation:
+#### Controls
+
+There are 5 controls that the user can use to interact with the dashboard split amongst 2 buttons and a switch. All these controls are located along the left side of the steering wheel and the user can effectively activate all of them with their thumb while still holding the steering wheel with the rest of their hand. See the image below along with the following bullet points for an explanation:
 
 <div style="text-align: center">
 <img src="/Images/dash-controls.jpg" height=500>
@@ -102,6 +106,22 @@ There are 5 controls that the user can use to interact with the dashboard split 
   - <strong>Flip up:</strong> flipping this switch up will move the selection up 1 item.
   - <strong>Flip down:</strong> flipping this switch down will move the selection down 1 item.
   - <strong>Press:</strong> pressing the switch acts as an "Enter" function, hence the label. This will use the currently selected item and bring you to a screen with more information about that item.
+
+#### Design Flaws
+
+The biggest flaw with my car dashboard, which leads to the biggest mistake I make while using it, is how many screens there are. I will flip through screen after screen trying to find the one I am looking for, and when I finally get there, I will accidentally flip past it. It is understandable that there will be many screens associated with settings, but these are formatted like a menu and are not part of the standard sequence of screens. The problem I have is that there are 8 main informational screens. The only way to go through the screens is by cycling one screen at a time either forwards or backwards. Being able to go backwards is great and makes the problem manageable, however, 8 informational screens is still too many for me while I am driving.
+
+These are the 8 different screens on my car dashboard in the order you cycle through them: Settings, Average Speed, Trip A, Trip B, Fuel Economy, Compass, Music, Warnings, then back to Settings. Each screen also has a header and footer that remain the same no matter which screen you are on. In the header and footer part of the screen you can find the time, temperature, miles until empty, mileage, and car mode (park, reverse, drive).
+
+In my new design, I propose 4 total screens in this order: Settings, Warnings, Informational Screen, and Fuel Economy. In my proposed design, I will move the compass to the header of the screen because this is the only place to find the direction you are moving in the entire car and it is pretty important to know, I will remove the music screen because this information is displayed on the console and there is no need to have it also displayed on the dashboard, and I will consolidate the Average Speed, Trip A and Trip B screen to a single page because this type of information is similar and can easily fit on the same screen.
+
+While I personally would not choose to do so, there can also be a setting to change the screens back the other way and to turn certain screens on / off. This would be extremely helpful in personalizing user experience and making sure each user can have the screens they find important.
+
+#### My Design
+
+<div style="text-align: center">
+<img src="/Images/dash-controls.jpg" height=500>
+</div>
 
 
 ## Part 3
