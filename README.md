@@ -90,7 +90,7 @@ Some of the less common information shown on the dashboard is:
 - Fuel Economy (Average miles per gallon)
 - Settings
 
-There are 5 controls that the user can use to interact with the dashboard split amongst 3 different buttons.
+There are 5 controls that the user can use to interact with the dashboard split amongst 2 buttons and a switch.
 
 - Switch screen button: this button is used to switch the screen forwards 1 screen. There are several different screens on the LCD screen and the only purpose of this button is to go forwards through them.
 - Back button: this button has 2 uses. If you have entered a menu it will return you to the previous page, otherwise, it will act as a go back 1 screen button.
