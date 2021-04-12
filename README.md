@@ -90,7 +90,7 @@ Some of the less common information shown on the dashboard is:
 - Fuel Economy (Average miles per gallon)
 - Settings
 
-There are 5 controls that the user can use to interact with the dashboard split amongst 2 buttons and a switch.
+There are 5 controls that the user can use to interact with the dashboard split amongst 2 buttons and a switch. See the image below along with the following bullet points for an explanation:
 
 <div style="text-align: center">
 <img src="/Images/dash-controls.jpg" height=500>
