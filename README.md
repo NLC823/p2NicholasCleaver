@@ -59,6 +59,28 @@ In summary, the more complicated the design for the car dashboard, the more comp
 
 ## Part 2
 
-
+- Engine RPM
+- Engine Heat
+- Speed MPH
+- Speek km/h
+- Gas level
+- Warning Lights
+- Car mode (economy / sport)
+- cruise control
+- Bright lights on
+- Airbags
+- Mileage
+- Compass
+- Time
+- Temperature
+- Car mode (Park, Drive / Gear, Reverse)
+- Miles until empty
+- Radio Station
+- Warning details
+- Settings
+- Average Speed
+- Trip A
+- Trip B
+- Fuel Economy (Average miles per gallon)
 
 ## Part 3
