@@ -1,7 +1,9 @@
 # Human Computer Interaction Project 2: Car Dashboard
 #### Nicholas Cleaver | Spring 2021 | Texas Tech University
 
+
 ## Part 1
+
 
 #### Introduction
 When looking for car Dashboards online, you can find a lot of futuristic looking light up screens. See these two images below for examples:
@@ -57,30 +59,36 @@ Finally, let's look at the design for the Honda e compact EV shown in the bottom
 
 In summary, the more complicated the design for the car dashboard, the more complicated the controls. The levels of complication vary from a single button with 3 numbers to an LCD screen spanning the entire width of the car. It is up to the car designer to find the happy medium where the important information can be displayed in a visually appealing way while also keeping the controls simple. This can be a hard task because as most people get more experience with common features of handheld devices, such as smartphones, certain controls will be seen as simple and understandable, but to those who don’t use these devices as much, they will be confusing and unintuitive. For this reason, I think the best design of the ones I listed above is the design with the central LCD screen. This design keeps the iconic and recognizable circular indicators of the car dashboard while also having a central LCD screen to see details of error messages and other information. This design can use 4-5 buttons to control every aspect of the screen and is not too complicated for anyone to learn. This design will not be distracting while you drive and is still able to get the most important information to you clearly.
 
+
 ## Part 2
 
-- Engine RPM
-- Engine Heat
+
+For this section, I will use my own car dashboard as an example. I have one with a central LCD screen and two circular gauges as with the top right and bottom left from the section above. Uses of the dashboard include displaying information; there is a lot of information that is either important to know while driving or just handy to know in general and this is displayed on the dashboard.
+
+Some of the more common information to look at for me is as follows:
 - Speed MPH
-- Speek km/h
 - Gas level
-- Warning Lights
-- Car mode (economy / sport)
-- cruise control
-- Bright lights on
-- Airbags
-- Mileage
+- Miles until empty
 - Compass
 - Time
 - Temperature
+- Engine RPM
+- Engine Heat
+- Cruise control
+
+Some of the less common information shown on the dashboard is:
+- Speek km/h
+- Bright lights on
+- Mileage
 - Car mode (Park, Drive / Gear, Reverse)
-- Miles until empty
-- Radio Station
+- Car mode (economy / sport / regular)
+- Warning Lights
 - Warning details
-- Settings
+- Trip A miles
+- Trip B miles
 - Average Speed
-- Trip A
-- Trip B
 - Fuel Economy (Average miles per gallon)
+- Settings
+
 
 ## Part 3
