@@ -77,7 +77,7 @@ Some of the more common information to look at for me is as follows:
 - Cruise control
 
 Some of the less common information shown on the dashboard is:
-- Speek km/h
+- Speed km/h
 - Bright lights on
 - Mileage
 - Car mode (Park, Drive / Gear, Reverse)
@@ -89,6 +89,15 @@ Some of the less common information shown on the dashboard is:
 - Average Speed
 - Fuel Economy (Average miles per gallon)
 - Settings
+
+There are 5 controls that the user can use to interact with the dashboard split amongst 3 different buttons.
+
+- Switch screen button: this button is used to switch the screen forwards 1 screen. There are several different screens on the LCD screen and the only purpose of this button is to go forwards through them.
+- Back button: this button has 2 uses. If you have entered a menu it will return you to the previous page, otherwise, it will act as a go back 1 screen button.
+- Control switch: This third and final button is the most important and is composed of 3 parts flip up, flip down, and press. When you flip the switch in either direction it automatically returns to the center.
+  - Flip up: flipping this switch up will move the selection up 1 item.
+  - Flip down: flipping this switch down will move the selection down 1 item.
+  - Press: pressing the switch acts as an "Enter" function. This will use the currently selected item and bring you to a screen with more information about that item.
 
 
 ## Part 3
