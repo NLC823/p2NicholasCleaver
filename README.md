@@ -31,20 +31,20 @@ The top left image shown here is still a widely used design today. This is one o
 #### Pros and Cons
 First, lets start off with the futureistic electronic dashboards shown at the beginning.
 <ul>
-  <li><strong>Pros:</strong> the pros of this design</li>
-  <li><strong>Cons:</strong> the cons of this design</li>
+  <li><strong>Pros:</strong> the pros of this design, as mentioned above, are learning. This design does not come with the clutter involved in an actual car dashboard and can be used to clearly illustrate concepts. It is easy to correlate to your own car by recognizing the symbols and makes it easier to grasp what is being communicated.</li>
+  <li><strong>Cons:</strong> the cons of this design are that this is not exactly what you see. Yes, it makes it easy to understand the symbols with their enlarged depictions, but if you are not aware, you might not recognize the same symbol in yopur own car. Another note is that many cars have different indicator lights and looking at one specific example might not be what you have in your car.</li>
 </ul>
 
 Next, lets look at the slightly older design that is still highly popular from the top left image.
 <ul>
-  <li><strong>Pros:</strong> the pros of this design</li>
-  <li><strong>Cons:</strong> the cons of this design</li>
+  <li><strong>Pros:</strong> the pros of this design include the iconic circles indicating different information. This is the most common feature amongst car dashboards and is a clear recognizable way to see the most important information. This design features four different needles that point to different pieces of important information. The dials are big enough to be clearly seen and the most important dial, the speed one, is in the middle.</li>
+  <li><strong>Cons:</strong> the cons of this design include the numbers displayed at the bottom center of the speed dial. These numbers do not have clear labels and someone new to driving might not understand what they mean. Also the outdated button between the center dial and the right dial to reset the trip can be seen as a con. While not strictly bad, as this design is an older one and the technology we have now did not exist at the time, this button is not labeled and might even be overlooked as a button if you didn't know what you were looking for.</li>
 </ul>
 
 Next, lets look at the more modern spin off of the previous design depicted in the top right and bottom left images.
 <ul>
-  <li><strong>Pros:</strong> the pros of this design</li>
-  <li><strong>Cons:</strong> the cons of this design</li>
+  <li><strong>Pros:</strong> the pros of these designs include </li>
+  <li><strong>Cons:</strong> the cons of these designs include </li>
 </ul>
 
 Finally, lets look at the design for the Honda e compact EV shown in the bottom right image.
