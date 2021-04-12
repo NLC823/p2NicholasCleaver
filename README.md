@@ -49,8 +49,8 @@ Next, lets look at the more modern spin off of the previous design depicted in t
 
 Finally, lets look at the design for the Honda e compact EV shown in the bottom right image.
 <ul>
-  <li><strong>Pros:</strong> the pros of this design</li>
-  <li><strong>Cons:</strong> the cons of this design</li>
+  <li><strong>Pros:</strong> the pros of this design include the plethera of information that is available to you. This dashboard has a lot of space available as it spans the entire width of the car. This space, properly used, will be able to show exactly what the user needs clearly and understandably. This is like a step up from the numbers below the speed dial to the LCD screen between two dials, but for the entire dashboard.</li>
+  <li><strong>Cons:</strong> the cons of this design include the design no longer being recognizable. While this may be the trend to here car dashboards are heading, the recognizable iconic circular dials are missing. There are times in which the dashboard may not even show how fast you are going and the controls involving this are likely very complicated. I do not know which parts of the dashboard are touchscreen vs controlled by buttons, however, either option is problematic to the driver. This complicated of a design is going to have complicated controls and, unless the user has been trained on proper uses, they will likely be distracted by their controls while driving. This is a danger to themselves and others around them on the road.</li>
 </ul>
 
 ## Part 2
