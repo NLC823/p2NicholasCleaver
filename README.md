@@ -43,8 +43,8 @@ Next, lets look at the slightly older design that is still highly popular from t
 
 Next, lets look at the more modern spin off of the previous design depicted in the top right and bottom left images.
 <ul>
-  <li><strong>Pros:</strong> the pros of these designs include </li>
-  <li><strong>Cons:</strong> the cons of these designs include </li>
+  <li><strong>Pros:</strong> the pros of these designs include the same iconic circulat dials with a more updated LCD screen in the center for further information. This type of design keeps the clear and easily seen important information from the previous design on dials and puts the less important information into a more organized screen where it is clear what you are looking at. The bottom right design, in particular, is great because it still has a dial for everything the older design had a dial for. Organized in this way, it is easy to see a ton of information and, with the LCD screen, you can be more clear about the information. Warnings and alerts still have indicator lights on the dashboard, but now you can give more information about them on the central LCD screen. No longer do you need to memorizre what the different cymbols mean because the LCD screen will explain the errors.</li>
+  <li><strong>Cons:</strong> the cons of these designs include the interface being more complicated to interact with. No longer is there a single button to reset the trip on your car, you likely have 4 or ore different buttons to interact with the central LCD screen. The control mechanisms are not depicted in these images, but with the increased functionality comes more complicated controls. The user may mistake these controls for other controls or distract themselves while driving in an attempt to figure out what control is the one they are looking for.</li>
 </ul>
 
 Finally, lets look at the design for the Honda e compact EV shown in the bottom right image.
