@@ -20,10 +20,13 @@ While these dashboards are nice and clean looking, they are not a realistic repr
 Dashboards can contain a lot of different information and part of being a responsible driver is knowing what the different warning lights mean so you can take care of your car. It is important to know which lights are errors that it would be catastrophic to drive with and which ones are minor inconveniences that will need to be looked at eventually but are not critical to your safety. Take a look at the 4 examples from below of more realistic car dashboards:
 
 <div style="text-align: center">
-<img src="/Images/real-dash-1.jpg" width=500>
-<img src="/Images/real-dash-2.jpg" width=500>
-<img src="/Images/real-dash-3.jpg" width=500>
-<img src="/Images/real-dash-4.jpg" width=500>
+  <figure>
+    <img src="/Images/real-dash-1.jpg" width=500>
+    <figcaption>Top Left</figcaption>
+  </figure>
+  <img src="/Images/real-dash-2.jpg" width=500>
+  <img src="/Images/real-dash-3.jpg" width=500>
+  <img src="/Images/real-dash-4.jpg" width=500>
 </div>
 
 The top left image shown here is still a widely used design today. This is one of the original concepts that people liked and was used for a long time. In more modern cars, such as the top right and bottom left depictions from above, there is an added LCD screen in the center. This seems to be the most popular dashboard design method for newer cars today. Finally, on the bottom right, you can the dashboard to the Honda e compact EV. This dashboard is a little different with information shown all the way across the car instead of immediately in front of the driver.
