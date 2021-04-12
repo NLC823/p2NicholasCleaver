@@ -92,6 +92,10 @@ Some of the less common information shown on the dashboard is:
 
 There are 5 controls that the user can use to interact with the dashboard split amongst 2 buttons and a switch.
 
+<div style="text-align: center">
+<img src="/Images/dash-controls.jpg" width=1000>
+</div>
+
 - Switch screen button: this button is used to switch the screen forwards 1 screen. There are several different screens on the LCD screen and the only purpose of this button is to go forwards through them.
 - Back button: this button has 2 uses. If you have entered a menu it will return you to the previous page, otherwise, it will act as a go back 1 screen button.
 - Control switch: This third and final button is the most important and is composed of 3 parts flip up, flip down, and press. When you flip the switch in either direction it automatically returns to the center.
