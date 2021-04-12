@@ -20,10 +20,7 @@ While these dashboards are nice and clean looking, they are not a realistic repr
 Dashboards can contain a lot of different information and part of being a responsible driver is knowing what the different warning lights mean so you can take care of your car. It is important to know which lights are errors that it would be catastrophic to drive with and which ones are minor inconveniences that will need to be looked at eventually but are not critical to your safety. Take a look at the 4 examples from below of more realistic car dashboards:
 
 <div style="text-align: center">
-  <figure>
-    <img src="/Images/real-dash-1.jpg" width=500>
-    <figcaption>Top Left</figcaption>
-  </figure>
+  <img src="/Images/real-dash-1.jpg" width=500>
   <img src="/Images/real-dash-2.jpg" width=500>
   <img src="/Images/real-dash-3.jpg" width=500>
   <img src="/Images/real-dash-4.jpg" width=500>
