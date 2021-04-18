@@ -123,8 +123,15 @@ While I personally would not choose to do so, there can also be a setting to cha
 <img src="/Images/dash-screens-sketch.jpg" width=750>
 </div>
 
-Above you can see my new design for the LCD screens. With this new four screen design you will not need to worry about having to switch screens an absurd number of times to cycle back the the screen you are looking for and all this information you need is still available. The only piece of information removed from the LCD screen is the music screen and this information is available in the center console anyways.
+Above you can see my new design for the LCD screens. With this new four screen design you will not need to worry about having to switch screens an absurd number of times to cycle back the screen you are looking for and all this information you need is still available. The only piece of information removed from the LCD screen is the music screen and this information is available in the center console anyways.
+
+See the below image for an example of the screen with the full dashboard around it.
 
 <div style="text-align: center">
-<img src="/Images/drawn-dash.jpg" width=750>
+<img src="/Images/drawn-dash.jpg" width=1000>
 </div>
+
+One thing to note about the design I drew is that I did not draw all the warning lights that would be present, and I did not draw the inner circle displaying km/h on the speed dial. I am not an artist and attempting to draw in these features would have made the design look cluttered and unrealistic, but these features would be present on an actual dashboard. One thing worth noting, however, is that with this design the warning lights are not strictly necessary. You will keep the more important ones around, such as the low gas light, but most of the warnings and errors can be switched to the warnings screen. On this screen you will not get a simple symbol describing the problem, you can see a brief overview of the issue and recommended action to take. You can see whether your car is still safe to drive and you do not need to memorize what a symbol means to do so. One final note about warnings is, when the warning first appears, the car will beep and the entire LCD screen will show what the warning is. Pressing any of the buttons to control the LCD screen dismisses the warning / error to the warnings screen, but you will be notified as soon as the error occurs.
+
+This dashboard is ideal because the iconic circular dials are present, and the central LCD screen is utilized efficiently. The driver will not be distracted by a large number of screens and the most vital information is easily accessible. This dashboard displays the speed on the right and the engine cycles on the left. The fuel remaining is on the bottom of the speed dial and the engine temperature is on the bottom of the engine cycles dial. Anyone who is familiar with car dashboards will recognize the dials and the information they display and, with minimal instruction, will be able to use the center LCD screen.
+
