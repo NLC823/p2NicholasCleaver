@@ -123,5 +123,8 @@ While I personally would not choose to do so, there can also be a setting to cha
 <img src="/Images/dash-screens-sketch.jpg" width=750>
 </div>
 
+Above you can see my new design for the LCD screens. With this new four screen design you will not need to worry about having to switch screens an absurd number of times to cycle back the the screen you are looking for and all this information you need is still available. The only piece of information removed from the LCD screen is the music screen and this information is available in the center console anyways.
 
-## Part 3
+<div style="text-align: center">
+<img src="/Images/drawn-dash.jpg" width=750>
+</div>
