@@ -135,3 +135,6 @@ One thing to note about the design I drew is that I did not draw all the warning
 
 This dashboard is ideal because the iconic circular dials are present, and the central LCD screen is utilized efficiently. The driver will not be distracted by a large number of screens and the most vital information is easily accessible. This dashboard displays the speed on the right and the engine cycles on the left. The fuel remaining is on the bottom of the speed dial and the engine temperature is on the bottom of the engine cycles dial. Anyone who is familiar with car dashboards will recognize the dials and the information they display and, with minimal instruction, will be able to use the center LCD screen.
 
+<div style="text-align: center">
+<img src="/Images/my-dash.gif" width=1000>
+</div>
