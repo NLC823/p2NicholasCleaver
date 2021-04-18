@@ -120,7 +120,7 @@ While I personally would not choose to do so, there can also be a setting to cha
 #### My Design
 
 <div style="text-align: center">
-<img src="/Images/dash-controls.jpg" height=500>
+<img src="/Images/dash-screens-sketch.jpg" width=750>
 </div>
 
 
