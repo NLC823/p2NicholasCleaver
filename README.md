@@ -1,5 +1,5 @@
 # Human Computer Interaction Project 2: Car Dashboard
-#### Nicholas Cleaver | Spring 2021 | Texas Tech University | <a href="https://youtu.be/BYJ1WJHH9ew" target=_blank>Presentation</a>
+#### Nicholas Cleaver | Spring 2021 | Texas Tech University | <a href="https://youtu.be/BYJ1WJHH9ew" target="_blank">Presentation</a>
 
 
 ## Part 1
